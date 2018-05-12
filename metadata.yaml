@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/183
     wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14457#Kings-Queens-and-Pawns--An-American-Woman-at-the-Front
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
